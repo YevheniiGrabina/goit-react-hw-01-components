@@ -1,7 +1,7 @@
 .profile {
     font-size: 16px;
-    background-color: rgba(161, 161, 161, 0.8);
-    border-radius: 21px;
+    background-color: rgba(240, 240, 240, 0.8);
+    border-radius: 5px;
 }
 
 .description {
@@ -27,7 +27,7 @@
 
 .tag,
 .location {
-    color: rgb(223, 218, 218);
+    color: rgb(143, 143, 143);
 }
 
 .stats {
@@ -44,11 +44,11 @@
     align-items: center;
     justify-content: center;
 
-    border: 1px solid rgb(69, 67, 67);
+    border: 1px solid gray;
 }
 
 .label {
-    color: rgb(255, 255, 255);
+    color: rgb(143, 143, 143);
 }
 
 .quantity {
